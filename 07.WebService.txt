@@ -1,0 +1,4 @@
+Web service adalah aplikasi sekumpulan data (database), perangkat lunak (software) atau bagian dari perangkat lunak yang dapat diakses secara remote oleh berbagai piranti dengan sebuah perantara tertentu.
+
+pada linux biasa menggunakan CRON, 
+pada iis/windows server menggunakan task scheduler.

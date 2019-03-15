@@ -1,0 +1,12 @@
+ParseInt adalah sebuah fungsi yang di miliki javascript yang berguna untuk mengkonversi sebuah string kedalam bentuk integer.
+
+parseFloat Adalah satu fungsi inti dari JavaScript yang memungkinkan merubah variabel yang dilewatkan
+dengan parameter tertentu menjadi bilangan desimal
+
+Fungsi eval digunakan untuk mengevaluasi ekspresi atau pernyataan JavaScript. Fungsi ini banyak digunakan sebagai pengevaluasi ekspresi (dapat dianalogikan dengan parser)
+
+window.prompt fungsi prompt hampir sama dengan alert, cuma kalau di prompt ada kotak isian/input box yang nantinya akan ditampung dalam suatu variable
+
+alert berfungsi untuk memberikan pop up message/pesan pada web
+
+console.log berfungsi untuk mengecek fungsionalitas javascript atau dengan kata lain bisa membantu kita mencari kesalahan/error pada javascript.

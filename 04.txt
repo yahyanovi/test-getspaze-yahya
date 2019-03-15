@@ -1,0 +1,11 @@
+_GET Adalah method digunakan untuk membaca data dari properti yang tidak dapat diakses (inaccessible property).
+
+_SET Adalah method digunakan untuk menulis data pada properti yang tidak dapat diakses .
+
+_ISSET Adalah method yang dipicu dengan memanggil method isset() atau empty() pada properti yang tidak dapat diakses.
+
+_UNSET Adalah method yang dipicu dengan memanggil method unset() pada properti yang tidak dapat diakses.
+
+_CALL Adalah method yang digunakan saat memanggil method yang tidak dapat diakses.
+
+_callStatic Adalah method yang digunakan saat memanggil method yang tidak dapat diakses (inaccessible method) didalam static.

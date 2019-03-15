@@ -1,0 +1,1 @@
+Curl adalah sebuah program yang memungkinan kita memindai data dari atau ke sebuah server tanpa interaksi dari masing-masing user.
